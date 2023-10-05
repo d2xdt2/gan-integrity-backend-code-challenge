@@ -1,0 +1,16 @@
+# GAN Integrity backend code challenge
+
+This is my answer to the https://github.com/gandevops/backend-code-challenge[GAN Integrity backend code challenge].
+
+The code is marked with two TODO comments that ought to be looked into.
+
+All functions are pure functions which means that none contain state or hard coded values and hence everything can be unit tested.
+
+## Install
+
+Developed using NodeJS v18.12.1.
+
+```
+npm i
+node server.js
+```
